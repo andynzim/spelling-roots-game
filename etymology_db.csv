@@ -1,3 +1,123 @@
-word,etymology,notes
-depth,"From Middle English 'depthe', formed from 'deep' + suffix '-th'. Old English 'dēop' (deep); Proto‑Germanic *diupaz / *diupiþō.",grade8
-entire,"From Old French 'entier', from Latin 'integer' (“untouched, whole”). Root sense: in- (‘not’) + tangere (‘to touch’) → ‘not touched’ = whole.",grade8
+word,pronunciation,etymology,root_family,notes
+depth,d-e-pth,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+entire,e-nt-i-r-e,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+threat,thr-ea-t,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+exchange,e-xch-a-ng-e,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+leisure,lee-zher / leh-zher,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+glamorous,glam-er-us,Suffix Latin -osus “full of”.,general concept / quality,grade8
+deficiency,di-fish-en-see,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+amusement,a-m-u-s-e-m-e-nt,Suffix Latin -mentum “result/state”.,general concept / quality,grade8
+arrangement,a-rr-a-ng-e-m-e-nt,Suffix Latin -mentum “result/state”.,general concept / quality,grade8
+mercenary,mur-suh-nair-ee,Suffix Latin -arius “related to”.,general concept / quality,grade8
+cameos,c-a-m-eo-s,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+perceived,p-e-rc-ei-v-e-d,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+internally,i-nt-e-rn-a-ll-y,Prefix Latin inter “between”.,general concept / quality,grade8
+precipitate,pri-sip-uh-tayt,Latin 'prae' (before) + 'caput' (head): “headlong; to fling down”.,general concept / quality,grade8
+annoyance,a-nn-oya-nc-e,Likely from Latin (often via French) — common academic suffix.,general concept / quality,grade8
+belligerent,buh-lij-er-ent,Suffix Latin -ens/-ent- “one who/quality of”.,general concept / quality,grade8
+anxious,a-nx-iou-s,Suffix Latin -osus “full of”.,general concept / quality,grade8
+shuddering,sh-u-dd-e-r-i-ng,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+privilege,pr-i-v-i-l-e-g-e,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,"speaking, judging, words",grade8
+outrageous,out-ray-jus,Suffix Latin -osus “full of”.,"earth, land, environment",grade8
+contrary,c-o-ntr-a-r-y,Suffix Latin -arius “related to”.,general concept / quality,grade8
+lucrative,loo-kruh-tiv,Suffix Latin -ivus “tending to”.,general concept / quality,grade8
+serviceable,s-e-rv-i-c-ea-bl-e,Suffix Latin -abilis “able to be”.,general concept / quality,grade8
+ominous,om-ih-nus,Suffix Latin -osus “full of”.,general concept / quality,grade8
+prestigious,pre-stij-us (US) / pres-tee-jus (UK),"Latin 'praestigiae' (tricks, illusions) → later “high status”.",general concept / quality,grade8
+transient,tran-zee-ent,Prefix Latin trans “across”. Suffix Latin -ens/-ent- “one who/quality of”.,general concept / quality,grade8
+vigilant,vij-uh-lunt,"From Latin 'vigil' (awake, watchful).",general concept / quality,grade8
+consequence,c-o-ns-e-q-ue-nc-e,Latin 'con-' (together) + 'sequi' (follow).,general concept / quality,grade8
+vivacious,vi-vay-shus,Suffix Latin -osus “full of”.,life and living things,grade8
+vacillate,vass-uh-layt,Suffix Latin -atus/-ate “make/act”.,general concept / quality,grade8
+phenomenon,fuh-nom-ih-non,Greek 'phainomenon' (that which appears) ← 'phainein' (to show).,general concept / quality,grade8
+forgetting,for-get-ing,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+horizon,huh-ry-zun,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+relieve,ri-leev,Prefix Latin re- “back/again”.,general concept / quality,grade8
+securing,seh-kyoor-ing,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+crypt,kript,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+optimistic,op-tih-mis-tik,From 'optimum' (best).,general concept / quality,grade8
+schedule,sked-jool / shed-yool,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+criticize,krit-ih-size,Greek 'kritikos' (able to judge).,"speaking, judging, words",grade8
+considerable,kun-sid-er-uh-bul,Suffix Latin -abilis “able to be”.,general concept / quality,grade8
+plaintiff,plain-tiff,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+malicious,muh-lish-us,Prefix Latin malus “bad”. Suffix Latin -osus “full of”.,general concept / quality,grade8
+taboo,ta-boo,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+specific,speh-sif-ik,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,"seeing, watching, observing",grade8
+vessel,vess-ul,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+amnesty,am-nes-tee,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+fashionable,fash-un-uh-bul,Suffix Latin -abilis “able to be”.,general concept / quality,grade8
+sacrifice,sak-ruh-fyce,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+burglary,burg-luh-ree,Anglo-Latin/Old French; 'burglar' (house-breaker) + '-y'.,general concept / quality,grade8
+rectangular,rek-tang-gyoo-lur,Latin 'rectus' (straight) + 'angulus' (angle).,general concept / quality,grade8
+passageway,pass-ij-way,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+extraordinary,ek-strawr-duh-ner-ee,Latin 'extra' (outside) + 'ordinarius' (ordinary).,general concept / quality,grade8
+parliament,par-luh-ment,"Old French 'parlement' (discussion), from 'parler' (to speak).",general concept / quality,grade8
+permeate,per-mee-ate,Latin 'per' (through) + 'meare' (to pass).,general concept / quality,grade8
+scandalized,skan-duh-lyzd,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+meticulous,meh-tik-yoo-lus,Latin 'meticulosus' (fearful) → “very careful”.,general concept / quality,grade8
+interrogate,in-ter-uh-gate,Latin 'inter' (between) + 'rogare' (ask).,"earth, land, environment",grade8
+unenforceable,un-en-for-suh-bul,Prefix Old English/French-Latin un- “not”. Suffix Latin -abilis “able to be”.,general concept / quality,grade8
+precocious,pri-koh-shus,Latin 'prae' (before) + 'coquere' (cook/ripen): “ripened early”.,general concept / quality,grade8
+inconvenience,in-kon-vee-nyuns,Prefix Latin in- “not/into”.,general concept / quality,grade8
+caricature,kar-ih-kuh-cher,"Italian 'caricatura' (exaggeration) ← 'caricare' (to load, exaggerate).",general concept / quality,grade8
+example,ig-zam-pul,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+freight,frayt,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+muscle,muss-ul,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+obedient,oh-bee-dee-ent,Suffix Latin -ens/-ent- “one who/quality of”.,general concept / quality,grade8
+supervisor,soo-per-vy-zer,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+envious,en-vee-us,Suffix Latin -osus “full of”.,"earth, land, environment",grade8
+characteristic,kar-ak-ter-is-tik,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+venom,ven-um,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+barometer,bah-rom-ih-ter,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+omitted,oh-mit-ed,"Latin 'omittere' (let go, leave out).",general concept / quality,grade8
+obscure,ob-skyoor,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+technology,tek-nol-uh-jee,"Greek 'tekhne' (art, craft) + '-logy' (study).","speaking, judging, words",grade8
+protein,pro-teen,Greek 'proteios' (primary).,turning and change,grade8
+unbelievable,un-buh-lee-vuh-bul,Prefix Old English/French-Latin un- “not”. Suffix Latin -abilis “able to be”.,general concept / quality,grade8
+insufficient,in-suh-fish-ent,Prefix Latin in- “not/into”. Suffix Latin -ens/-ent- “one who/quality of”.,general concept / quality,grade8
+snobbery,snob-uh-ree,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+machinery,muh-sheen-uh-ree,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+fibrous,fye-brus,"Latin 'fibra' (fiber, thread).",general concept / quality,grade8
+melodious,meh-loh-dee-us,"Greek 'melos' (song) + 'ode' (song/poem), via French.",general concept / quality,grade8
+honorary,on-uh-rair-ee,Suffix Latin -arius “related to”.,general concept / quality,grade8
+vertigo,vur-tih-go,Latin 'vertere' (to turn).,turning and change,grade8
+abstain,ab-stayn,Latin 'abs-' (from) + 'tenere' (hold).,general concept / quality,grade8
+necessity,neh-sess-ih-tee,Latin 'necessitas' (need).,general concept / quality,grade8
+religious,ri-lij-us,"From Latin 'religiosus' ← 'religio' (reverence, piety), related to 'religare' (to bind).",general concept / quality,grade8
+voracious,voh-ray-shus,Latin 'vorare' (devour).,general concept / quality,grade8
+personification,per-son-if-ih-kay-shun,Suffix Latin -tio “action/result”.,general concept / quality,grade8
+malignant,muh-lig-nunt,Latin 'malignus' (evil-natured).,general concept / quality,grade8
+nostalgia,no-stal-juh,Greek 'nostos' (return home) + 'algos' (pain).,general concept / quality,grade8
+indulgence,in-dul-jence,Prefix Latin in- “not/into”.,general concept / quality,grade8
+potpourri,poh-poo-ree,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+surveillance,ser-vay-lunce,French 'surveiller' (watch over).,general concept / quality,grade8
+educate,eh-ju-kayt,Latin 'educare' (bring up) ← 'e-' (out) + 'ducere' (lead).,general concept / quality,grade8
+earliest,ea-rl-ie-st,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+meant,m-ea-nt,Suffix Latin -ans/-ant- “one who/thing that”.,general concept / quality,grade8
+unsanitary,un-san-ih-tair-ee,Latin 'sanitas' (health) + prefix 'un-' (not).,general concept / quality,grade8
+persuade,per-swayd,Latin 'per-' (thoroughly) + 'suadere' (to advise).,general concept / quality,grade8
+controversy,kon-truh-ver-see / cun-trov-er-see,Latin 'contra' (against) + 'vertere' (turn): “a turning against”.,turning and change,grade8
+environment,en-vy-run-ment,French 'environ' (around).,"earth, land, environment",grade8
+awkward,awk-werd,Old Norse 'afugr' (turned wrong way) + English '-ward'.,general concept / quality,grade8
+vulnerable,vull-ner-uh-bul,Latin 'vulnerare' (to wound).,general concept / quality,grade8
+deterrent,di-terr-ent,Latin 'deterrere' (to frighten off).,"earth, land, environment",grade8
+propeller,proh-pell-er,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+surmise,ser-myz,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+criminal,krim-ih-nul,"Latin 'crimen' (accusation, offense).",general concept / quality,grade8
+unduly,un-doo-lee,Prefix Old English/French-Latin un- “not”.,general concept / quality,grade8
+capably,kay-puh-blee,From 'capable' ← Latin 'capere' (to take).,general concept / quality,grade8
+applicant,ap-li-kunt,Suffix Latin -ans/-ant- “one who/thing that”.,general concept / quality,grade8
+laboratory,lab-ruh-tor-ee / luh-bore-uh-tree,Latin 'labor' (work) + '-ory' (place).,general concept / quality,grade8
+escalator,ess-kuh-lay-ter,"From 'escalade' (climb), related to Latin 'scala' (ladder); brand name generalized.",general concept / quality,grade8
+embargo,em-bar-go,"Spanish/Portuguese 'embargar' (to bar, hinder).",general concept / quality,grade8
+minimize,min-uh-myz,Latin 'minimus' (least) + '-ize' (make).,general concept / quality,grade8
+malady,mal-uh-dee,Old French 'maladie' (illness).,general concept / quality,grade8
+procrastinate,pro-krass-tih-nayt,Latin 'pro' (forward) + 'cras' (tomorrow).,general concept / quality,grade8
+recurrent,ri-kur-ent,Latin 're-' (again) + 'currere' (run).,general concept / quality,grade8
+occurred,uh-kurd,General Latin/Greek origin common in academic English; focus on prefix/suffix pattern.,general concept / quality,grade8
+universal,yoo-nih-ver-sul,Prefix Old English/French-Latin un- “not”. Suffix Latin -alis “pertaining to”.,turning and change,grade8
+inevitable,in-ev-ih-tuh-bul,Latin 'in-' (not) + 'evitare' (avoid).,general concept / quality,grade8
+benevolent,beh-nev-uh-lent,"Latin 'bene' (good) + 'volens' (wishing): “well-wishing, kind”.",general concept / quality,grade8
+omnipotent,om-nip-uh-tent,Latin 'omnis' (all) + 'potens' (powerful).,general concept / quality,grade8
+ubiquitous,yoo-bik-wi-tus,From Latin 'ubique' (everywhere).,general concept / quality,grade8
+metamorphosis,met-uh-mor-foh-sis,Greek 'meta' (change) + 'morphe' (form).,general concept / quality,grade8
